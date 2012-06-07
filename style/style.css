@@ -1,0 +1,34 @@
+body {
+    
+}
+
+#draw {
+    background: url(../img/bg.png) repeat #DDDDDD;
+    border-radius: 3px 3px 3px 3px;
+    padding: 10px;
+   }
+
+#selector {
+    background: url(../img/bg.png) repeat #DDDDDD;
+    border-radius: 3px 3px 3px 3px;
+	padding: 10px;
+}
+
+#map {
+	background: url(../img/bg.png) repeat #DDDDDD;
+    border-radius: 3px 3px 3px 3px;
+	padding: 10px;
+}
+#rawbug {
+	border: 1px dotted red;
+	background-color:  #FF818D;
+	border-radius: 3px 3px 3px 3px;
+}
+
+
+.debug {
+	background: url(../img/bg.png) repeat;
+	background-color:  #FF818D;
+	height: 50px;
+	border-radius: 10px 10px 10px 10px;
+}
